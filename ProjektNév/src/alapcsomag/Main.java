@@ -15,5 +15,6 @@ public class Main {
     System.out.println("Mi történik még itt?!?!?");
     System.out.println("ide szépen beleírok");
     //itt a vége, eddig írtam.
+    //EZT MOST A MASTER-BE SZERETNÉM ÍRNI MINGE nigel727; vajon sikerül-e?
   }
 }
