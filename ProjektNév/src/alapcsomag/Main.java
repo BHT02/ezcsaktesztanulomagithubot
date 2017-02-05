@@ -11,6 +11,9 @@ package alapcsomag;
  */
 public class Main {
   public static void main(String[] args) {
+    System.out.println("meg ide eléje is írok");
     System.out.println("Mi történik még itt?!?!?");
+    System.out.println("ide szépen beleírok");
+    //itt a vége, eddig írtam.
   }
 }
